@@ -1,5 +1,5 @@
 # Ex-1-IMPLEMENTATION OF SYMBOL TABLE
-# Date :24.09.2024
+# Date : 22.08.2024
 # AIM:
 ## To write a C program to implement a symbol table.
 # ALGORITHM:
